@@ -1,0 +1,9 @@
+scan.py
+
+Original code that can load PIZStage, TIPFSOffset, TIZDrive three device
+
+
+TIZDrive is proven too be useless (low stepping resolution) and can be removed (as in scan2.py)
+
+
+
